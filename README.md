@@ -42,6 +42,7 @@ Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
 Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image
+
 ![image](https://github.com/lleiva25/Python_API_Challenge/assets/140974405/efe24683-126a-496f-b399-8246b899ad9f)
 ![image](https://github.com/lleiva25/Python_API_Challenge/assets/140974405/4f76d175-e168-4dec-8175-86fd931c3b5b)
 ![image](https://github.com/lleiva25/Python_API_Challenge/assets/140974405/972261c4-7b95-49a3-9ec8-ad3eecdd3d2c)
